@@ -1,0 +1,8 @@
+{
+  "name": "HUMERS E MANAGEMENT",
+  "description": "Enterprise document registry and directory management system with atomic sequence numbering, MIME-validated partitioned storage, master ledger, RBAC, and audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
